@@ -8,9 +8,10 @@ Welcome to my GitHub! I am a data professional passionate about transforming com
 
 Senior Data Analyst
 📍 Location: Bangalore, India | 📞 Phone: +91 9972865423 | ✉️ Email: abhijeet.shewale.05@gmail.com
-🔗 Links:
-LinkedIn: https://www.linkedin.com/in/abhijeet-shewale-data-analyst/
-Github: https://github.com/abhijeetshewale05
+🔗 Links
+
+LinkedIn: https://www.linkedin.com/in/abhijeet-shewale-data-analyst/ 
+Github: https://github.com/abhijeetshewale05 
 Website: https://abhijeetshewale05.github.io/abhijeet_shewale_website/
 
 ### 📊 Summary
